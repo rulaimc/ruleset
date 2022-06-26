@@ -7,7 +7,7 @@ mix-rule-providers:
   adblock:
     behavior: domain
     type: http
-    url: https://raw.githubusercontent.com/Rulaims/clash-ruleset/main/reject.txt
+    url: http://git.hbocc.top/gogs/clash-ruleset/raw/master/reject.txt
     interval: 3600
     path: ./ruleset/reject.yaml
 prepend-rules:
