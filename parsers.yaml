@@ -1,0 +1,14 @@
+# clash parsers配置
+# parsers:
+#   - reg: http.*
+#     file: "C:/Users/rulai/.config/clash/ruleset/parsers.yaml"
+
+mix-rule-providers:
+  adblock:
+    behavior: domain
+    type: http
+    url: https://raw.githubusercontent.com/Rulaims/clash-ruleset/main/reject.txt
+    interval: 3600
+    path: ./ruleset/reject.yaml
+prepend-rules:
+  - 'RULE-SET,adblock,REJECT'
