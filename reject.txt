@@ -95,3 +95,4 @@ payload:
   - '+.appcloud.zhihu.com'
   - '+.dm.pstatp.com'
   - '+.dl.pstmn.io'
+  - '+.internetdownloadmanager.com'
