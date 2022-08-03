@@ -11,7 +11,6 @@ payload:
   - '+.android.bugly.qq.com'
   - '+.api.ad.xiaomi.com'
   - '+.api.hpplay.com.cn'
-  - '+.api.io.mi.com'
   - '+.bss.pandora.xiaomi.com'
   - '+.cdn.hpplay.com.cn'
   - '+.cdn1.hpplay.cn'
