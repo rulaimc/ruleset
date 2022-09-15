@@ -10,5 +10,12 @@ mix-rule-providers:
     url: http://git.hbocc.top/gogs/clash-ruleset/raw/master/reject.txt
     interval: 3600
     path: ./ruleset/reject.yaml
+  direct:
+    behavior: domain
+    type: http
+    url: http://git.hbocc.top/gogs/clash-ruleset/raw/master/direct.txt
+    interval: 3600
+    path: ./ruleset/direct.yaml
 prepend-rules:
   - 'RULE-SET,adblock,REJECT'
+  - 'RULE-SET,direct,DIRECT'
