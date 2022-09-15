@@ -1,0 +1,2 @@
+payload:
+  - '+.t.uc.cn'
