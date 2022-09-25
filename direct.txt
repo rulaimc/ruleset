@@ -1,2 +1,3 @@
 payload:
   - '+.t.uc.cn'
+  - 'zimuku.org'
