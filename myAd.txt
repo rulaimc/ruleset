@@ -1,0 +1,19 @@
+! youtube广告拦截
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+
+! 知乎
+||api.zhihu.com/commercial_api/launch_v2^
+||api.zhihu.com/commercial_api/real_time_launch_v2^
+|api.zhihu.com/ad-style-service/request
+|api.zhihu.com/fringe/ad
+||api.zhihu.com/appview/api/v4/answers/*/recommendations*hb_answer_ad=0
+||api.zhihu.com/answers/*/comments/featured-comment-ad
+||api.zhihu.com/moments*$replace=/\"adjson\"/\"adnull\"/s
+||api.zhihu.com/topstory/recommend*$replace=/\"adjson\"/\"adnull\"/s
+||api.zhihu.com/v4/questions/*/answers*$replace=/\"adjson\"/\"adnull\"/s
+||api.zhihu.com/people/self$replace=/\"vip_info\"/\"null_vip\"/s
+@@||www.zhihu.com/api/v4/search_v3*
