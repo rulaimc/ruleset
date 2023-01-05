@@ -96,3 +96,4 @@ payload:
   - '+.dm.pstatp.com'
   - '+.dl.pstmn.io'
   - '+.internetdownloadmanager.com'
+  - '+.download.windowsupdate.com'
