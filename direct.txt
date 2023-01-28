@@ -1,3 +1,4 @@
 payload:
   - '+.t.uc.cn'
   - '+.zimuku.org'
+  - 'mb3admin.com'
