@@ -104,3 +104,4 @@ payload:
   - '+.tclai.top'
   - '+.tcloudfamily.com'
   - '+.aisee.tv'
+  - '+.huan.tv'
