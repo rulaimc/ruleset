@@ -105,3 +105,7 @@ payload:
   - '+.tcloudfamily.com'
   - '+.aisee.tv'
   - '+.huan.tv'
+  - 'updatepro.wps.cn'
+  - 'wps.crcc.cn'
+  - 'up.wps.kingsoft.com'
+  - 'notify.wps.cn'
