@@ -98,7 +98,6 @@ payload:
   - '+.internetdownloadmanager.com'
   - '+.download.windowsupdate.com'
   - '+.atianqi.com'
-  - '+.leiniao.com'
   - '+.my7v.com'
   - '+.tclking.com'
   - '+.tclai.top'
