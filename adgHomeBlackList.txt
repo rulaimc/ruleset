@@ -9,3 +9,4 @@
 ||tcljd.cn^
 ||cedock.com^
 ||tcl.com^
+||collection.shixunsuda.com^
