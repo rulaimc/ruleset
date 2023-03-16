@@ -1,3 +1,5 @@
+# [雷鸟电视]
+
 ||atianqi.com^
 ||leiniao.com^
 ||my7v.com^
@@ -12,3 +14,9 @@
 ||collection.shixunsuda.com^
 ||io.zx.tcljd.com^
 ||tv-ws.shouji.sogou.com^
+||kookong.com^
+||dev.voicecloud.cn^
+||ups.xfyun.cn^
+||globalmic.tlkg.com.cn^
+||7img1.tianlaikge.com^
+
