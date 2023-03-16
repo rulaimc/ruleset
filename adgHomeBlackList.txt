@@ -19,4 +19,4 @@
 ||ups.xfyun.cn^
 ||globalmic.tlkg.com.cn^
 ||7img1.tianlaikge.com^
-
+||cn-hangzhou.oss-pub.aliyun-inc.com
