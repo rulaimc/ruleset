@@ -13,7 +13,6 @@
 ||tcl.com^
 ||collection.shixunsuda.com^
 ||io.zx.tcljd.com^
-||tv-ws.shouji.sogou.com^
 ||kookong.com^
 ||dev.voicecloud.cn^
 ||ups.xfyun.cn^
