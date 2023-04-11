@@ -24,3 +24,7 @@
 ||apd-vodp2preport.teg.tencent-cloud.net^
 ||apd-vodp2pnat.teg.tencent-cloud.net^
 ||ltshwy.gtimg.com^
+
+
+# 其它
+1.12.12.12 doh.pub
