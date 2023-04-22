@@ -24,6 +24,35 @@
 ||apd-vodp2preport.teg.tencent-cloud.net^
 ||apd-vodp2pnat.teg.tencent-cloud.net^
 ||ltshwy.gtimg.com^
+||my7v.com.lan^
+||umengcloud.com.lan^
+||umeng.com.lan^
+||tlkg.com.cn.lan^
+||leiniao.com.lan^
+||huan.tv.lan^
+||aliyun-inc.com.lan^
+||tcljd.cn.lan^
+||shixunsuda.com.lan^
+||aisee.tv.lan^
+||atianqi.com.lan^^
+||hpplay.cn.lan^
+||tclking.com.lan^
+||iflytek.com.lan^
+||cedock.com.lan^
+||tcl.com.lan^
+||ut.taobao.com.lan^
+||cn-hangzhou.oss-pub.aliyun-inc.com^
+||apd-pcdnvodstat.teg.tencent-cloud.net^
+||apd-vodp2plogin.teg.tencent-cloud.net^
+||apd-vodp2preport.teg.tencent-cloud.net^
+||apd-vodp2pnat.teg.tencent-cloud.net^
+||beacon-api.aliyuncs.com.lan^
+||voicecloud.cn.lan^
+||tclai.top.lan^
+||xfyun.cn.lan^
+||tcloudfamily.com.lan^
+
+
 
 
 # 其它
