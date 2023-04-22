@@ -34,6 +34,7 @@
 ||voicecloud.cn^
 ||synctime-o.ffalcon.cn^
 ||api.ffalcon.cn^
+||qpic.cn^
 
 ||mpush-api.aliyun.com^
 
