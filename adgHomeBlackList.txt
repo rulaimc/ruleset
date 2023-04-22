@@ -56,9 +56,11 @@
 ||tcljd.com.lan^
 ||mpush-api.aliyun.com^
 ||synctime-o.ffalcon.cn^
+
 ||restapi.amap.com^
 ||apilocate.amap.com^
 ||logs.amap.com.lan^
+||adashx.ut.amap.com.lan^
 
 
 
