@@ -46,11 +46,19 @@
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||apd-vodp2preport.teg.tencent-cloud.net^
 ||apd-vodp2pnat.teg.tencent-cloud.net^
+||apd-vodp2plogin.teg.tencent-cloud.net.lan^
 ||beacon-api.aliyuncs.com.lan^
 ||voicecloud.cn.lan^
 ||tclai.top.lan^
 ||xfyun.cn.lan^
 ||tcloudfamily.com.lan^
+||adash.man.aliyuncs.com.lan^
+||tcljd.com.lan^
+||mpush-api.aliyun.com^
+||synctime-o.ffalcon.cn^
+||restapi.amap.com^
+||apilocate.amap.com^
+||logs.amap.com.lan^
 
 
 
