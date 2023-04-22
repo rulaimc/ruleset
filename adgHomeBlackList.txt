@@ -9,6 +9,7 @@
 ||aisee.tv^
 ||huan.tv^
 ||tcljd.cn^
+||tcljd.com^
 ||cedock.com^
 ||tcl.com^
 ||collection.shixunsuda.com^
@@ -24,44 +25,22 @@
 ||apd-vodp2preport.teg.tencent-cloud.net^
 ||apd-vodp2pnat.teg.tencent-cloud.net^
 ||ltshwy.gtimg.com^
-||my7v.com.lan^
-||umengcloud.com.lan^
-||umeng.com.lan^
-||tlkg.com.cn.lan^
-||leiniao.com.lan^
-||huan.tv.lan^
-||aliyun-inc.com.lan^
-||tcljd.cn.lan^
-||shixunsuda.com.lan^
-||aisee.tv.lan^
-||atianqi.com.lan^^
-||hpplay.cn.lan^
-||tclking.com.lan^
-||iflytek.com.lan^
-||cedock.com.lan^
-||tcl.com.lan^
-||ut.taobao.com.lan^
-||cn-hangzhou.oss-pub.aliyun-inc.com^
-||apd-pcdnvodstat.teg.tencent-cloud.net^
-||apd-vodp2plogin.teg.tencent-cloud.net^
-||apd-vodp2preport.teg.tencent-cloud.net^
-||apd-vodp2pnat.teg.tencent-cloud.net^
-||apd-vodp2plogin.teg.tencent-cloud.net.lan^
-||beacon-api.aliyuncs.com.lan^
-||voicecloud.cn.lan^
-||tclai.top.lan^
-||xfyun.cn.lan^
-||tcloudfamily.com.lan^
-||adash.man.aliyuncs.com.lan^
-||tcljd.com.lan^
-||mpush-api.aliyun.com^
+||umengcloud.com^
+||hpplay.cn^
+||shixunsuda.com^
+||umeng.com^
+||tlkg.com.cn^
+||iflytek.com^
+||voicecloud.cn^
 ||synctime-o.ffalcon.cn^
 ||api.ffalcon.cn^
 
+||mpush-api.aliyun.com^
+
 ||restapi.amap.com^
 ||apilocate.amap.com^
-||logs.amap.com.lan^
-||adashx.ut.amap.com.lan^
+
+||*.lan^
 
 
 
