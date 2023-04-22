@@ -38,9 +38,6 @@
 
 ||mpush-api.aliyun.com^
 
-||restapi.amap.com^
-||apilocate.amap.com^
-
 ||*.lan^
 
 
