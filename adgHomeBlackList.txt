@@ -40,6 +40,8 @@
 
 ||*.lan^
 
+# 阿里云盘app登录
+@@||acs.m.taobao.com^
 
 
 
