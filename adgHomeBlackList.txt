@@ -1,6 +1,6 @@
 # [雷鸟电视]
 
-# ||atianqi.com^
+||atianqi.com^
 ||leiniao.com^
 ||my7v.com^
 ||tclking.com^
@@ -44,8 +44,6 @@
 @@||acs.m.taobao.com^
 # 微信朋友圈图片
 @@||szmmsns.qpic.cn^
-
-@@||api.leiniao.com^
 
 
 
