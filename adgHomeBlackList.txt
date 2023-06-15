@@ -42,6 +42,8 @@
 
 # 阿里云盘app登录
 @@||acs.m.taobao.com^
+# 微信朋友圈图片
+@@||szmmsns.qpic.cn^
 
 
 
