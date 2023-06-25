@@ -35,18 +35,13 @@
 ||synctime-o.ffalcon.cn^
 ||api.ffalcon.cn^
 
+||mpush-api.aliyun.com^
+
 # 百度云盘升级
 ||update.pan.baidu.com^
 
 # 腾讯图片相关
 # ||qpic.cn^
 
-||mpush-api.aliyun.com^
-
-||*.lan^
-
 # 阿里云盘app登录
 @@||acs.m.taobao.com^
-
-# 微信朋友圈图片
-# @@||szmmsns.qpic.cn^
