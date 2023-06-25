@@ -35,6 +35,9 @@
 ||synctime-o.ffalcon.cn^
 ||api.ffalcon.cn^
 
+# 百度云盘升级
+||update.pan.baidu.com^
+
 # 腾讯图片相关
 # ||qpic.cn^
 
