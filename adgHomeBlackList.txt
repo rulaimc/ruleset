@@ -34,7 +34,9 @@
 ||voicecloud.cn^
 ||synctime-o.ffalcon.cn^
 ||api.ffalcon.cn^
-||qpic.cn^
+
+# 腾讯图片相关
+# ||qpic.cn^
 
 ||mpush-api.aliyun.com^
 
@@ -42,10 +44,6 @@
 
 # 阿里云盘app登录
 @@||acs.m.taobao.com^
+
 # 微信朋友圈图片
-@@||szmmsns.qpic.cn^
-
-
-
-# 其它
-1.12.12.12 doh.pub
+# @@||szmmsns.qpic.cn^
