@@ -3,4 +3,3 @@ payload:
   - '+.zimuku.org'
   - 'mb3admin.com'
   - 'kingdee.dev'
-  - '+.hbocn.top'
