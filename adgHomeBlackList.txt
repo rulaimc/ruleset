@@ -13,3 +13,6 @@
 
 # 115
 ||appversion.115.com^
+
+# 有道云笔记
+||cowork-common-public-cdn.lx.netease.com^
