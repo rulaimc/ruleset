@@ -1,20 +1,22 @@
 
 # 百度云盘
-||update.pan.baidu.com^$important
+||update.pan.baidu.com^
 
 # wps
-||updatepro.wps.cn^$important
+||updatepro.wps.cn^
+||update.wps.cn^
 
 # vivo系统更新
-||sysupgrade.vivo.com.cn^$important
+||sysupgrade.vivo.com.cn^
 
 # miui系统更新
-||update.miui.com^$important
+||update.miui.com^
 
 # 115
-||appversion.115.com^$important
+||appversion.115.com^
 
 # 有道云笔记
-||cowork-common-public-cdn.lx.netease.com^$important
+||cowork-common-public-cdn.lx.netease.com^
 
-
+# windows更新
+||ctldl.windowsupdate.com^
