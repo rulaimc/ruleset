@@ -19,7 +19,7 @@
 ||cowork-common-public-cdn.lx.netease.com^
 
 # windows更新
-||ctldl.windowsupdate.com^
+# ||ctldl.windowsupdate.com^
 
 # 乐播投屏
 ||hpplay.cn^
