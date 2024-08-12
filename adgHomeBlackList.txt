@@ -20,3 +20,7 @@
 
 # windows更新
 ||ctldl.windowsupdate.com^
+
+# 乐播投屏
+||hpplay.cn^
+||lebo.com^
