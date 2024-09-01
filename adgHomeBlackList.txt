@@ -25,3 +25,4 @@
 ||hpplay.cn^
 ||lebo.com^
 ||lebo.cn^
+||lebo.com.cn^
