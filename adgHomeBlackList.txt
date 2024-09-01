@@ -24,3 +24,4 @@
 # 乐播投屏
 ||hpplay.cn^
 ||lebo.com^
+||lebo.cn^
