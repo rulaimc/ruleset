@@ -7,7 +7,7 @@
 ||update.wps.cn^
 
 # vivo系统更新
-||sysupgrade.vivo.com.cn^
+#||sysupgrade.vivo.com.cn^
 
 # miui系统更新
 ||update.miui.com^
